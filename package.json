@@ -1,0 +1,22 @@
+{
+    "name": "com.eyap53.noisenodes",
+    "version": "0.1.0",
+    "displayName": "Noise Nodes",
+    "description": "Various noise nodes for Unity and ShaderGraph",
+    "unity": "2020.2",
+    "unityRelease": "1f1",
+    "dependencies": {
+        "com.unity.shadergraph": "10.2.2"
+    },
+    "keywords": [
+        "noise",
+        "3D noise",
+        "shadergraph",
+        "simplex"
+    ],
+    "author": {
+        "name": "Mael Lacour",
+        "email": "public.dev@maellacour.com",
+        "url": "https://github.com/Eyap53/Noise_Nodes"
+    }
+}
