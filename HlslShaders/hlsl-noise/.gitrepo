@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:Eyap53/hlsl-noise.git
 	branch = main
-	commit = 4618c6b8039006ca68eb4a32cc1c2a5e4e9bcdd6
-	parent = 4741ea9b475cb4ff648998dfcb0c244c3a7810ae
+	commit = fa352f76e4d5f9aae7b6e5e45e9400828e1927ba
+	parent = 263f5cac87ca03d85cf1488ffc2862165c4d6fbe
 	method = merge
 	cmdver = 0.4.3
