@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:Eyap53/hlsl-noise.git
+	branch = main
+	commit = 4618c6b8039006ca68eb4a32cc1c2a5e4e9bcdd6
+	parent = 4741ea9b475cb4ff648998dfcb0c244c3a7810ae
+	method = merge
+	cmdver = 0.4.3
