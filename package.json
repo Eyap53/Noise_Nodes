@@ -1,6 +1,6 @@
 {
     "name": "com.eyap53.noisenodes",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "displayName": "Noise Nodes",
     "description": "Various noise nodes for Unity and ShaderGraph",
     "unity": "2020.2",
@@ -12,7 +12,8 @@
         "noise",
         "3D noise",
         "shadergraph",
-        "simplex"
+        "simplex",
+        "fbm"
     ],
     "author": {
         "name": "Mael Lacour",
