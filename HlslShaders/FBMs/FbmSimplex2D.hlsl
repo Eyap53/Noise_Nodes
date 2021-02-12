@@ -6,7 +6,10 @@
 
 #include "../hlsl-noise/src/SimplexNoise2D.hlsl"
 
-void SimplexFbm2D_float(float2 uv, float octavesCount, float hurst, float lacunarity, out float output)
+///
+/// Hurst should be between 0 and 1 for a gain between 1 and 0.5.
+///
+void FbmSimplex2D_float(float2 uv, float octavesCount, float hurst, float lacunarity, out float output)
 {
     float gain = exp2(-hurst);
     float frequency = 1.0;
